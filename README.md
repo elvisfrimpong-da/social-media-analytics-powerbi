@@ -47,4 +47,28 @@ The goal was to explore and visualize key performance metrics to help answer 9 c
 
 ---
 
+## 🤝 Acknowledgements
+
+Special thanks to the teams and partners behind this challenge:
+
+- OnyxData  
+- ZoomCharts  
+- EnterpriseDNA  
+- BCS, The Chartered Institute for IT  
+- Smart Frames UI  
+
+---
+
+## 📬 Contact
+
+**Frimpong Elvis**  
+📧 Email: [elvisfrimpong.da@gmail.com]  
+🔗 LinkedIn: [linkedin](https://linkedin.com/in/elvisfrimpong)
+
+---
+
+## 📌 License
+
+This project is for educational and portfolio use. Do not reuse or republish the data without permission from the challenge organizers.
+
 
