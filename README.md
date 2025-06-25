@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard developed as part of the **Onyx Da
 
 ## 🔍 Project Objective
 
-The goal was to explore and visualize key performance metrics to help answer 9 core strategic questions:
+The goal was to explore and visualize key performance metrics to help answer 8 core strategic questions:
 
 1. Which platforms and post types generate the highest engagement or views?
 2. What content categories (e.g., product promotion, educational) drive the best performance across different regions?
@@ -16,7 +16,7 @@ The goal was to explore and visualize key performance metrics to help answer 9 c
 6. What hashtags are most effective in increasing impressions or clicks?
 7. Which countries or regions consistently show high video view counts or live stream interest?
 8. Are there correlations between engagement levels and content categories or publishing time?
-9. How do organic vs. promoted content types compare in terms of reach and performance?
+
 
 ---
 
