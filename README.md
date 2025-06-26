@@ -2,7 +2,10 @@
 
 This repository contains a Power BI dashboard developed as part of the **Onyx Data Social Media Data Visualization Challenge – 2024**. The project analyzes real-world post-level data from TikTok, Instagram, LinkedIn, and X.com to uncover what drives social media content performance across platforms, regions, content types, and timeframes.
 
----
+## 📖 Read the Full Case Study
+
+Dive deeper into the analysis, insights, and visuals presented in this project by reading the full write-up on Medium:
+👉 [Read the Medium Article](https://medium.com/@elvisfrimpong.da/uncovering-what-works-a-deep-dive-into-social-media-performance-with-power-bi-0675e4fbf0b7)
 
 ## 🔍 Project Objective
 
